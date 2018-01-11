@@ -27,3 +27,6 @@ console.log(add.apply(optimus,20,30));
 
 // #4
 console.log(add.bind(calculate,bender), calculate(drinking,beer));
+
+
+console.log('hi');
